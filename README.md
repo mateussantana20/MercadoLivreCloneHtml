@@ -2,7 +2,7 @@
 
 <ul>
   <p>Objetivo:</p>
-  <li>estudar e treinar mais minhas habilidades com HTML e CSS </p>
+  <li>Estudar e treinar mais minhas habilidades com HTML e CSS </p>
 </ul>
 
 ![Screenshot from 2020-05-16 16-06-27](https://user-images.githubusercontent.com/49589069/82128169-76f35f00-978f-11ea-81c5-6c3f8b3b317c.png)
